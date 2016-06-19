@@ -1,0 +1,16 @@
+
+*.o
+
+*.d
+
+dist/Debug/GNU-MacOSX/friendly-ram_xd
+
+Makefile
+
+*.xml
+
+*.mk
+
+*.bash
+
+*.properties
