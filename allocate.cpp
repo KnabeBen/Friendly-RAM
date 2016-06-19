@@ -3,7 +3,7 @@ using namespace std;
 #include "allocate.h"
 
 void allocate::allcocate(unsigned int modus, unsigned int Anzahl_K) {
-
+    cout << "RUN" << endl;
     if (modus == 1) {
         while (true) {
             int *p; // Zeiger fuer den neuen Speicherbereich

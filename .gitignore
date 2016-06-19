@@ -14,3 +14,7 @@ Makefile
 *.bash
 
 *.properties
+
+*.inc
+
+dist/Debug/GNU-MacOSX/friendly-ram
